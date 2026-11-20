@@ -1,7 +1,3 @@
-# imoveis.py
-# Classes que representam os tipos de imovel da R.M Imoveis.
-# Cada imovel sabe calcular o proprio aluguel mensal.
-
 
 class Imovel:
     """Classe base. As subclasses definem o aluguel-base e as regras especificas."""
