@@ -1,6 +1,3 @@
-# main.py
-# Ponto de entrada do RentSmart: pergunta os dados ao usuario,
-# monta os objetos e mostra o orcamento.
 
 from imoveis import Apartamento, Casa, Estudio
 from orcamento import Orcamento, TaxaContratual
