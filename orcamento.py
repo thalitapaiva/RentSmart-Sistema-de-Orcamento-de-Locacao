@@ -1,5 +1,4 @@
-# orcamento.py
-# Taxa de contrato, orcamento final e geracao do CSV.
+
 
 import csv
 
